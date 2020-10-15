@@ -1,0 +1,45 @@
+[2020-10-14 23:13:56.873] [sharedprocess] [info] main {"machineId":"2c90ad738dcb43d2073eaed22fb5b810f5939e21476fa47a8eba95a7cb1c38c0","windowId":2}
+[2020-10-14 23:13:57.240] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/treinar/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/contatos/~/.vscode-root/User/snippets'
+[2020-10-14 23:14:29.675] [sharedprocess] [info] Installing extension: donjayamanne.githistory
+[2020-10-14 23:14:30.428] [sharedprocess] [info] Downloaded extension: donjayamanne.githistory undefined
+[2020-10-14 23:14:31.130] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.donjayamanne.githistory-0.6.12: donjayamanne.githistory
+[2020-10-14 23:14:31.130] [sharedprocess] [info] Renamed to /root/.vscode/extensions/donjayamanne.githistory-0.6.12
+[2020-10-14 23:14:31.132] [sharedprocess] [info] Installation completed. donjayamanne.githistory
+[2020-10-14 23:14:31.139] [sharedprocess] [info] Extensions installed successfully: donjayamanne.githistory
+[2020-10-14 23:14:36.941] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-10-14 23:15:05.691] [sharedprocess] [info] Installing extension: felipecaputo.git-project-manager
+[2020-10-14 23:15:06.177] [sharedprocess] [info] Downloaded extension: felipecaputo.git-project-manager undefined
+[2020-10-14 23:15:06.537] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.felipecaputo.git-project-manager-1.7.1: felipecaputo.git-project-manager
+[2020-10-14 23:15:06.537] [sharedprocess] [info] Renamed to /root/.vscode/extensions/felipecaputo.git-project-manager-1.7.1
+[2020-10-14 23:15:06.538] [sharedprocess] [info] Installation completed. felipecaputo.git-project-manager
+[2020-10-14 23:15:06.571] [sharedprocess] [info] Extensions installed successfully: felipecaputo.git-project-manager
+[2020-10-14 23:15:08.209] [sharedprocess] [info] Installing extension: donjayamanne.git-extension-pack
+[2020-10-14 23:15:08.578] [sharedprocess] [info] Downloaded extension: donjayamanne.git-extension-pack undefined
+[2020-10-14 23:15:08.596] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.donjayamanne.git-extension-pack-0.1.3: donjayamanne.git-extension-pack
+[2020-10-14 23:15:08.596] [sharedprocess] [info] Renamed to /root/.vscode/extensions/donjayamanne.git-extension-pack-0.1.3
+[2020-10-14 23:15:08.598] [sharedprocess] [info] Installation completed. donjayamanne.git-extension-pack
+[2020-10-14 23:15:08.971] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2020-10-14 23:15:08.971] [sharedprocess] [info] Installing extension: alefragnani.project-manager
+[2020-10-14 23:15:08.972] [sharedprocess] [info] Installing extension: codezombiech.gitignore
+[2020-10-14 23:15:08.972] [sharedprocess] [info] Installing extension: ziyasal.vscode-open-in-github
+[2020-10-14 23:15:10.056] [sharedprocess] [info] Downloaded extension: eamodio.gitlens undefined
+[2020-10-14 23:15:10.491] [sharedprocess] [info] Downloaded extension: codezombiech.gitignore undefined
+[2020-10-14 23:15:10.492] [sharedprocess] [info] Downloaded extension: ziyasal.vscode-open-in-github undefined
+[2020-10-14 23:15:10.996] [sharedprocess] [info] Downloaded extension: alefragnani.project-manager undefined
+[2020-10-14 23:15:11.473] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ziyasal.vscode-open-in-github-1.3.6: ziyasal.vscode-open-in-github
+[2020-10-14 23:15:11.474] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ziyasal.vscode-open-in-github-1.3.6
+[2020-10-14 23:15:11.476] [sharedprocess] [info] Installation completed. ziyasal.vscode-open-in-github
+[2020-10-14 23:15:11.505] [sharedprocess] [info] Extensions installed successfully: ziyasal.vscode-open-in-github
+[2020-10-14 23:15:11.637] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.alefragnani.project-manager-11.3.0: alefragnani.project-manager
+[2020-10-14 23:15:11.637] [sharedprocess] [info] Renamed to /root/.vscode/extensions/alefragnani.project-manager-11.3.0
+[2020-10-14 23:15:11.642] [sharedprocess] [info] Installation completed. alefragnani.project-manager
+[2020-10-14 23:15:11.648] [sharedprocess] [info] Extensions installed successfully: alefragnani.project-manager
+[2020-10-14 23:15:12.029] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.eamodio.gitlens-10.2.2: eamodio.gitlens
+[2020-10-14 23:15:12.029] [sharedprocess] [info] Renamed to /root/.vscode/extensions/eamodio.gitlens-10.2.2
+[2020-10-14 23:15:12.066] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2020-10-14 23:15:12.188] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2020-10-14 23:15:14.984] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.codezombiech.gitignore-0.6.0: codezombiech.gitignore
+[2020-10-14 23:15:14.985] [sharedprocess] [info] Renamed to /root/.vscode/extensions/codezombiech.gitignore-0.6.0
+[2020-10-14 23:15:14.988] [sharedprocess] [info] Installation completed. codezombiech.gitignore
+[2020-10-14 23:15:15.039] [sharedprocess] [info] Extensions installed successfully: codezombiech.gitignore
+[2020-10-14 23:15:15.040] [sharedprocess] [info] Extensions installed successfully: donjayamanne.git-extension-pack
